@@ -1,5 +1,6 @@
 # UI-UX-Experiment3
-
+# NAME: DHANUSHA K
+# REG NO: 212223040034
 ## Aim:
 To analyze and compare the user interface and user experience (UI/UX) design of two popular e-commerce mobile applications — Amazon and Flipkart — and identify the differences in their layout, color schemes, navigation, and functional focus.
 
