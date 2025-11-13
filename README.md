@@ -20,7 +20,8 @@ Step 6: Conclude which app focuses more on user personalization and which emphas
 ## Output:
 Comparison between Amazon and Flipkart App Interfaces
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/008035bc-f2fa-44df-90a1-0decd6793bd1" />
+<img width="997" height="662" alt="image" src="https://github.com/user-attachments/assets/f6ba8f15-bf2f-4131-8a96-86003e4ab9e1" />
+
 
 | Feature           | **Amazon App**                               | **Flipkart App**                                        |
 | ----------------- | -------------------------------------------- | ------------------------------------------------------- |
